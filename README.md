@@ -146,7 +146,7 @@ This allows users to switch between Light and Dark modes, improving readability 
 ---
 
 ## 🔗 LinkedIn Post
-*(Add your LinkedIn project post link here)*
+https://www.linkedin.com/feed/update/urn:li:activity:7408772291326767107/
 
 ---
 
